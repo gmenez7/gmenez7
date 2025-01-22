@@ -1,13 +1,12 @@
 
 # 🍀 Olá! Eu sou <strong>Gustavo Menez!</strong>
 
-👨‍💻 Atualmente estou trabalhando em um projeto - [Void V1.0]()
+👨‍💻 Atualmente estou trabalhando em um projeto - []()
 
 📗 Também estou a me tornar um <strong>Analista de Sistemas</strong>!
 
 ### Preferência de tecnologia e ferramentas 💻
 
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
 <a><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
 <a><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></a>
